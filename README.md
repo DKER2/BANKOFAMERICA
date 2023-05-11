@@ -21,9 +21,6 @@ npm start
 ```
 
 ## 2.2 Run Backend
-```
-cd Components
-```
 
 ```
 pip install flask, flask_cors
